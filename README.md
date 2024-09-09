@@ -16,6 +16,6 @@ This repository demonstrates how to package and deploy a machine learning model 
 To get started, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/ml-model-packaging.git
-cd ml-model-packaging
+git clone https://github.com/lokesh0221/Packaging-Machine-Learning-Models
+cd Packaging-Machine-Learning-Models
 pip install -r requirements.txt
