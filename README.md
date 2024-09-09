@@ -8,8 +8,7 @@ This repository demonstrates how to package and deploy a machine learning model 
 - [Running the Flask API](#running-the-flask-api)
 - [Testing the API](#testing-the-api)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
